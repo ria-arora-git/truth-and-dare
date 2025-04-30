@@ -41,8 +41,27 @@ const dares = [
     "text someone that 'i like feet' to anyone who is in not present here.",
     "hold hand of anyone of opposite gender present here for 2 minutes",
     "send a voice note to anyone saying 'meow meow meow'",
-    "text 5 people ' i need a favor from you'",
+    "text 5 people ' can we please meet up tomorrow?'",
     "kiss the person to your left on the hand",
+    "Send “I’m in the mood... guess for what?” to someone not in this room.",
+    "Pretend to flirt with someone in the room for a full minute — like you’re trying to seduce them.",
+    "Let someone from the opposite gender choose a flirty pick-up line and say it to you — in front of everyone.",
+    "Send “What are you wearing?” to someone not in this room — no context.",
+    "Let someone here write a flirty message and you have to send it to a random contact.",
+    "Pick someone in this room and say out loud where you’d kiss them if you could.",
+    "let everyone pick a person for you and sit with them for next half an hour",
+    "go out of the room for 10 minutes",
+    "Propose to a chair dramatically and get rejected.",
+    "Hug 3 random people blindfolded",
+    "Hold a 1 min 'dramatic eye contact' challenge with someone without laughing",
+    "text any senior of yours that 'i love you so much that i can die for you'",
+    "text your mother/father that you will come home late today",
+    "Send a random voice note saying 'I miss you' to the last person you texted",
+    "Give a 30-second speech on why you’re the best person in the room",
+    "Take a selfie with someone and caption it with something weird. keep it on story for next 30 mins",
+    "snap 3 people a thumbs up pic and write 'you are the best person in my life' on it",
+
+
 ];
 
 export default function TruthOrDare({
