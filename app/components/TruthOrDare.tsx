@@ -3,10 +3,33 @@
 import { useState } from "react";
 
 const truths = [
-  "What’s your biggest fear?",
-  "What’s a secret you’ve never told anyone?",
-  "What’s the worst lie you’ve ever told?",
-  "What’s your guilty pleasure?",
+    "What’s your biggest fear?",
+    "What’s a secret you’ve never told anyone?",
+    "What’s the worst lie you’ve ever told?",
+    "What’s your guilty pleasure?",
+    "Choose two people from opposite gender present here you want in your life forever.",
+    "Who's the most loving person you ever had in your life (except your parents).",
+    "Choose a person from opposite gender with whom you can go on a candle light dinner.",
+    "Whom do you feel have a crush on you, present in this room. (Coin flip)",
+    "If you had to be stranded on an island with one person in this room, who would it be?",
+    "Who here do you think would make the best partner in a relationship?",
+    "If you had to give a rose to someone in this room right now, who would it be?",
+    "Who here do you think is most likely to fall in love first?",
+    "If you could swap lives with anyone in this room for a day, who would it be and why?",
+    "Who in this room do you think is most flirtatious?",
+    "If you had to write a love letter to someone here, who would you address it to?",
+    "Who here would you choose to play your partner in a movie about your life?",
+    "Who in this room do you think is hiding a secret crush?",
+    "Who in this room would you kiss if you had the chance right now?",
+    "Name one person here you’ve had a romantic or flirty thought about.",
+    "If you had to share a bed with someone from this room, who would it be?",
+    "Who here do you think would be the best kisser?",
+    "If you had to go on a secret date with someone from this room, who would you pick?",
+    "Who here do you think flirts the most—intentionally?",
+    "If you had to choose someone here to be your 'situationship', who would it be?",
+    "Have you ever imagined being in a relationship with someone in this room? If yes, who?",
+    "Who in this room do you think is the most “dateable”?",
+    "If you had to play 7 minutes in heaven with someone here, who would you choose?",
 ];
 
 const dares = [
@@ -18,7 +41,8 @@ const dares = [
     "text someone that 'i like feet' to anyone who is in not present here.",
     "hold hand of anyone of opposite gender present here for 2 minutes",
     "send a voice note to anyone saying 'meow meow meow'",
-    ""
+    "text 5 people ' i need a favor from you'",
+    "kiss the person to your left on the hand",
 ];
 
 export default function TruthOrDare({
